@@ -1,7 +1,7 @@
 {
   "name": "concepts",
   "private": true,
-  "description": "Bare-bones starter for the Gatsby",
+  "description": "Playground for developing documentation with Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
